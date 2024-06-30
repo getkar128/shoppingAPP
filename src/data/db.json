@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch",
+      "image": "/assets/applewatch.jpg",
+      "rating": "4",
+      "review": 720,
+      "price": "79999",
+      "discountedPrice": "89999",
+      "description": "WHY APPLE WATCH ULTRA 2 — Rugged, capable and built to meet the demands of endurance athletes, outdoor adventurers and water sports enthusiasts — with a specialised strap for each. The S9 SiP enables a super-bright display and a magical new way to quickly and easily interact with your Apple Watch without touching the display. Up to 36 hours of battery life and 72 hours in Low Power Mode.\n CARBON NEUTRAL — Apple Watch Ultra 2 paired with the latest Alpine Loop or Trail Loop is carbon neutral."
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy Buds2 Pro, (White)",
+      "image": "/assets/earpodsSamsung.jpg",
+      "rating": "4",
+      "review": 1720,
+      "price": "79999",
+      "discountedPrice": "89999",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!"
+    },
+    {
+      "id": 3,
+      "title": "Apple iPhone 15 (128 GB) - Black",
+      "image": "/assets/iphone.jpg",
+      "rating": "5",
+      "review": 4020,
+      "price": "71999",
+      "discountedPrice": "79900",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!"
+    },
+    {
+      "id": 4,
+      "title": "Fujifilm Instax Mini 12 Instant Camera-Pink",
+      "image": "/assets/camera.jpg",
+      "rating": "5",
+      "review": 320,
+      "price": "7499",
+      "discountedPrice": "9900",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!"
+    },
+    {
+      "id": 5,
+      "title": "FUJIFILM Instax Mini LiPlay Hybrid Instant Camera (Elegant Black)",
+      "image": "/assets/fujifilmCamera.jpg",
+      "rating": "5",
+      "review": 220,
+      "price": "15999",
+      "discountedPrice": "18999",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!"
+    }
+  ],
+  "cart": [
+    {
+      "cart": [
+        {
+          "id": 1,
+          "title": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch",
+          "image": "/assets/applewatch.jpg",
+          "rating": "4",
+          "review": 720,
+          "price": "79999",
+          "discountedPrice": "89999",
+          "description": "WHY APPLE WATCH ULTRA 2 — Rugged, capable and built to meet the demands of endurance athletes, outdoor adventurers and water sports enthusiasts — with a specialised strap for each. The S9 SiP enables a super-bright display and a magical new way to quickly and easily interact with your Apple Watch without touching the display. Up to 36 hours of battery life and 72 hours in Low Power Mode.\n CARBON NEUTRAL — Apple Watch Ultra 2 paired with the latest Alpine Loop or Trail Loop is carbon neutral.",
+          "quantity": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "cart": [
+        {
+          "id": 1,
+          "title": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch",
+          "image": "/assets/applewatch.jpg",
+          "rating": "4",
+          "review": 720,
+          "price": "79999",
+          "discountedPrice": "89999",
+          "description": "WHY APPLE WATCH ULTRA 2 — Rugged, capable and built to meet the demands of endurance athletes, outdoor adventurers and water sports enthusiasts — with a specialised strap for each. The S9 SiP enables a super-bright display and a magical new way to quickly and easily interact with your Apple Watch without touching the display. Up to 36 hours of battery life and 72 hours in Low Power Mode.\n CARBON NEUTRAL — Apple Watch Ultra 2 paired with the latest Alpine Loop or Trail Loop is carbon neutral.",
+          "quantity": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "cart": [
+        {
+          "id": 1,
+          "title": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch",
+          "image": "/assets/applewatch.jpg",
+          "rating": "4",
+          "review": 720,
+          "price": "79999",
+          "discountedPrice": "89999",
+          "description": "WHY APPLE WATCH ULTRA 2 — Rugged, capable and built to meet the demands of endurance athletes, outdoor adventurers and water sports enthusiasts — with a specialised strap for each. The S9 SiP enables a super-bright display and a magical new way to quickly and easily interact with your Apple Watch without touching the display. Up to 36 hours of battery life and 72 hours in Low Power Mode.\n CARBON NEUTRAL — Apple Watch Ultra 2 paired with the latest Alpine Loop or Trail Loop is carbon neutral.",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "title": "Samsung Galaxy Buds2 Pro, (White)",
+          "image": "/assets/earpodsSamsung.jpg",
+          "rating": "4",
+          "review": 1720,
+          "price": "79999",
+          "discountedPrice": "89999",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "title": "Apple iPhone 15 (128 GB) - Black",
+          "image": "/assets/iphone.jpg",
+          "rating": "5",
+          "review": 4020,
+          "price": "71999",
+          "discountedPrice": "79900",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "title": "Fujifilm Instax Mini 12 Instant Camera-Pink",
+          "image": "/assets/camera.jpg",
+          "rating": "5",
+          "review": 320,
+          "price": "7499",
+          "discountedPrice": "9900",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!",
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "title": "FUJIFILM Instax Mini LiPlay Hybrid Instant Camera (Elegant Black)",
+          "image": "/assets/fujifilmCamera.jpg",
+          "rating": "5",
+          "review": 220,
+          "price": "15999",
+          "discountedPrice": "18999",
+          "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus blanditiis magni eius repellendus aspernatur quis aliquam corporis nam nulla unde a impedit obcaecati ex perferendis accusantium, illo dicta magnam nesciunt!",
+          "quantity": 2
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
